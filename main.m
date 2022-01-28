@@ -436,6 +436,10 @@ end
 
 %% EXO analysis (if)
 if opts.EXO && opts.task1_SOT
+    bucket.pathToProcessedData_EXO   = fullfile(bucket.pathToProcessedData,'processed_EXO');
+    if ~exist(bucket.pathToProcessedData_EXO)
+        mkdir(bucket.pathToProcessedData_EXO)
+    end
     % Transform forces from the EXO into human forces
     disp('-------------------------------------------------------------------');
     disp('[Start] Transforming EXO force in human frames...');

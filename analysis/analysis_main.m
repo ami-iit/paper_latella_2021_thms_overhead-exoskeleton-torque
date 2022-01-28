@@ -124,6 +124,8 @@ disp('[End] Extraction data');
 %% ========================================================================
 % This section produces the plot:
 % - in Figure 7
+% - in Figure 8
+% - in Figure 9
 % - in Figure 10
 % - in Figure 11
 disp('-------------------------------------------------------------------');
