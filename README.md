@@ -23,6 +23,10 @@ Jernej Čamernik, Pauline Maurice, Lars Fritzsche, Jose Gonzalez-Vargas, Serena 
 <a href="https://youtu.be/bIwBw2ztFdU"><b>Video</b></a>
 </div>
 
+### Installation and usage
+Please refer to the
+- [Installation](https://github.com/ami-iit/paper_latella_2021_thms_overhead-exoskeleton-torque/blob/master/instructions/installation.md) document on how to setup and install the code components,
+- [Usage](https://github.com/ami-iit/paper_latella_2021_thms_overhead-exoskeleton-torque/blob/master/instructions/usage.md) document on how to use the code related to this work.
 
 ### Citing this work
 
