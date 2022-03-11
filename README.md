@@ -25,6 +25,7 @@ Jernej Čamernik, Pauline Maurice, Lars Fritzsche, Jose Gonzalez-Vargas, Serena 
 
 ### Installation and usage
 Please refer to the
+
 - [Installation](https://github.com/ami-iit/paper_latella_2021_thms_overhead-exoskeleton-torque/blob/master/instructions/installation.md) document on how to setup and install the code components,
 - [Usage](https://github.com/ami-iit/paper_latella_2021_thms_overhead-exoskeleton-torque/blob/master/instructions/usage.md) document on how to use the code related to this work.
 
@@ -47,6 +48,8 @@ If you find the work useful, please use the following bibtex as a reference:
 ### Acknowledgement
 
 This paper has been supported by EU <a href="https://andy-project.eu"><b>An.Dy Project</b></a>. This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No. 731540.  The content of this publication is the sole responsibility of the authors.  The European Commission or its services cannot be held responsible for any use that may be made of the information it contains.
+
+The authors would like to sincerely thank [Gabriele Nava](https://github.com/GabrieleNava) for all the incredible and meticulous support in testing and improving the codebase usage, installation instructions and documentation of this repo.
 
 
 ### Maintainer
