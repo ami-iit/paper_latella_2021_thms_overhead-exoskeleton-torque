@@ -1,13 +1,10 @@
 
-% Copyright (C) 2019 Istituto Italiano di Tecnologia (IIT)
-% All rights reserved.
+% SPDX-FileCopyrightText: Fondazione Istituto Italiano di Tecnologia
 %
-% This software may be modified and distributed under the terms of the
-% GNU Lesser General Public License v2.1 or any later version.
+% SPDX-License-Identifier: BSD-3-Clause
 
 function data = getListFromCSV(filename, startRow, endRow, listLength)
 %GETLISTFROMCSV extracts strings from a CSV file and returns them in an ordered list.
-
 % Note: part of this function is inherited from the Matlab auto-generated code
 % of the function 'importCSVfile'.
 

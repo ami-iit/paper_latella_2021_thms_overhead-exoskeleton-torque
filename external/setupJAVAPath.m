@@ -1,7 +1,5 @@
 
 function setupJAVAPath()
-%SETUPJAVAPATH Summary of this function goes here
-%   Detailed explanation goes here
 %% Java path needed by OSIM
 JAVA_OSIM_PATH = getenv('JAVA_OSIM_PATH');
 JAVA_OSIM_LIB_FOLDER = getenv('JAVA_OSIM_LIB_FOLDER');
@@ -38,7 +36,4 @@ if ~found
     fprintf(fid, strcat(strrep(JAVA_OSIM_LIB_FOLDER, '\', '\\'), '\n'));
     fclose(fid);
 end
-
-
 end
-
